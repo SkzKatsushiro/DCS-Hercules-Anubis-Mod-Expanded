@@ -1,0 +1,7 @@
+model = {
+	lods = {		
+		{"Hercules_Container_Parachute_Static_LOD0.edm",500.000000};
+		{"Hercules_Container_Parachute_Static_LOD1.edm",100000.000000};
+	};
+	collision_shell = "Hercules_Container_Parachute_Static_Collision.edm";
+}

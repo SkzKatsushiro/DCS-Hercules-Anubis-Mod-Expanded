@@ -1,0 +1,4 @@
+wave = "Effects/External/Herc_EngineStartExt.wav"
+inner_radius = 50
+outer_radius = 2500
+position = {-4.8, 1.4, -5.1}

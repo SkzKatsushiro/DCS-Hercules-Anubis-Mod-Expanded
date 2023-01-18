@@ -1,0 +1,4 @@
+wave = "Effects/External/Herc_CargoDownLoading.wav"
+inner_radius = 10
+outer_radius = 100
+position = {-10, 0, 0}

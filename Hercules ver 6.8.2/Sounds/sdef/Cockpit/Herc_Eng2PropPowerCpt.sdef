@@ -1,0 +1,4 @@
+wave = "Effects/Cockpit/Herc_PropPowerCpt.wav"
+inner_radius = 5
+outer_radius = 10
+position = {-4.8, 1.4, -5.1}

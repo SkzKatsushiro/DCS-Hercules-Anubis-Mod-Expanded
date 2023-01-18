@@ -1,0 +1,4 @@
+wave = "Effects/Cockpit/Herc_Paratroop_Door.wav"
+inner_radius = 5
+outer_radius = 10
+position = {-20, 0, 0}
