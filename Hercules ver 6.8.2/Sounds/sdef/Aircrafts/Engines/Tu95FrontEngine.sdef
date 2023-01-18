@@ -1,0 +1,3 @@
+wave = "Effects/Aircrafts/Engines/Herc_Null"
+inner_radius = 50
+outer_radius = 1000

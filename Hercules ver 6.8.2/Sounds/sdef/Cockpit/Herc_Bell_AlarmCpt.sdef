@@ -1,0 +1,4 @@
+wave = "Effects/Cockpit/Herc_Bell_Alarm.wav"
+inner_radius = 10
+outer_radius = 100
+position = {-20, 0, 0}
