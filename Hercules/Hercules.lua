@@ -488,7 +488,8 @@ Hercules = {
                     { CLSID = "Herc_Ammo_AGM_65E_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}}, --AGM65E
                     { CLSID = "Herc_Ammo_AGM_88C_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}}, --AGM88C
                     { CLSID = "Herc_Ammo_AGM_65K_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}}, --AGM65K
-					{ CLSID = "Herc_Ammo_Vikhr_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}},-----VIHKR					
+					{ CLSID = "Herc_Ammo_Vikhr_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}},-----VIHKR
+					{ CLSID = "Herc_Ammo_AGM_114K_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}},-----AGM_114K						
 					{ CLSID = "Herc_Ammo_AGM_84A_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}},-----agm84a
 					{ CLSID = "Herc_Ammo_AGM_84E_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}},-----agm84e
 					{ CLSID = "Herc_Ammo_KH25ML_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}},-----KH25ML
@@ -588,7 +589,8 @@ Hercules = {
                     { CLSID = "Herc_Ammo_AGM_65E_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}}, --AGM65E
                     { CLSID = "Herc_Ammo_AGM_88C_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}}, --AGM88C
                     { CLSID = "Herc_Ammo_AGM_65K_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}}, --AGM65K
-					{ CLSID = "Herc_Ammo_Vikhr_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}},-----VIHKR					
+					{ CLSID = "Herc_Ammo_Vikhr_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}},-----VIHKR
+					{ CLSID = "Herc_Ammo_AGM_114K_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}},-----AGM_114K						
 					{ CLSID = "Herc_Ammo_AGM_84A_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}},-----agm84a
 					{ CLSID = "Herc_Ammo_AGM_84E_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}},-----agm84e
 					{ CLSID = "Herc_Ammo_KH25ML_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}},-----KH25ML
@@ -720,7 +722,8 @@ Hercules = {
                     { CLSID = "Herc_Ammo_AGM_65E_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}}, --AGM65E
                     { CLSID = "Herc_Ammo_AGM_88C_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}}, --AGM88C
                     { CLSID = "Herc_Ammo_AGM_65K_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}}, --AGM65K
-					{ CLSID = "Herc_Ammo_Vikhr_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}},-----VIHKR					
+					{ CLSID = "Herc_Ammo_Vikhr_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}},-----VIHKR
+					{ CLSID = "Herc_Ammo_AGM_114K_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}},-----AGM_114K					
 					{ CLSID = "Herc_Ammo_AGM_84A_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}},-----agm84a
 					{ CLSID = "Herc_Ammo_AGM_84E_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}},-----agm84e
 					{ CLSID = "Herc_Ammo_KH25ML_missiles", arg_value = 0.1, attach_point_position = { 0, -0.1, 0}},-----KH25ML
